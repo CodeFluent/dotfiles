@@ -1,0 +1,11 @@
+#!/bin/bash
+
+# notify color
+barb='#2d2d2d'
+barf='#ffffff'
+
+# this is font!
+font='-kori-metis-normal-r-normal--11-90-75-75-p-58-iso10646-1'
+
+# yeah 
+(echo "  $@" ; sleep 5) | lemonbar -g 140x30+1150+680 -B $barb -F $barf -f $font
