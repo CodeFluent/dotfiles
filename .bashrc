@@ -1,3 +1,5 @@
+# CodeFluent's .bashrc. Ctrl+F the term "CUSTOM" to find the custom set variables.
+
 # ~/.bashrc: executed by bash(1) for non-login shells.
 # see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)
 # for examples
@@ -22,6 +24,7 @@ HISTFILESIZE=2000
 # check the window size after each command and, if necessary,
 # update the values of LINES and COLUMNS.
 shopt -s checkwinsize
+
 
 # If set, the pattern "**" used in a pathname expansion context will
 # match all files and zero or more directories and subdirectories.
@@ -87,12 +90,17 @@ fi
 # colored GCC warnings and errors
 #export GCC_COLORS='error=01;31:warning=01;35:note=01;36:caret=01;32:locus=01:quote=01'
 
+# CUSTOM Variables
+
+cava="/home/codefluent/Desktop/ThingsOfAll/MasterFiles/cava-master/cava" # CUSTOM
+
 # Aliases
 # some more ls aliases
 alias ll='ls -alF'
 alias la='ls -A'
 alias l='ls -CF'
-alias cls='clear'
+alias cls='clear' # CUSTOM
+alias cavaret="gnome-terminal --window-with-profile=CavaDesk -e $cava && sleep 5 && devilspie &" # CUSTOM
 
 # Add an "alert" alias for long running commands.  Use like so:
 #   sleep 10; alert

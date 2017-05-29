@@ -1,0 +1,9 @@
+2017/05/12-10:47:54.570 2960 Reusing MANIFEST /home/codefluent/.config/google-chrome/Default/IndexedDB/https_ponyfoo.com_0.indexeddb.leveldb/MANIFEST-000001
+2017/05/12-10:47:54.728 2960 Current memtable full; waiting...
+2017/05/12-10:47:54.728 4537 Level-0 table #5: started
+2017/05/12-10:47:54.734 4537 Level-0 table #5: 1167 bytes OK
+2017/05/12-10:47:54.741 4537 Delete type=0 #3
+2017/05/12-10:47:54.741 4537 Level-0 table #7: started
+2017/05/12-10:47:54.741 4537 Level-0 table #7: 0 bytes OK
+2017/05/12-10:47:54.743 4537 Delete type=0 #4
+2017/05/12-10:47:54.743 4537 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

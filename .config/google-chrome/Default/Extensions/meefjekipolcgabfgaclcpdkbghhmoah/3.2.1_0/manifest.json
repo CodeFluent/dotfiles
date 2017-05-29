@@ -1,0 +1,19 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "https://human.biodigital.com/ws/user/sign/in/google?isChromeApp=1"
+      },
+      "urls": [ "https://human.biodigital.com/" ]
+   },
+   "content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self'",
+   "description": "3D Atlas of Human Anatomy & health Conditions - Comprehensive, 3D & Interactive!",
+   "icons": {
+      "128": "icon_128_square.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAw456VZXoYAdsRsfx0ulSHGmk56IlOq6S8XI5Nr6egCZMhncxEyu7SgfUHLHmkr+kFLLNEO5FFjEbo1qQgdjtxW2e1t5YPGEwfLDA2dbQu4j1diHQ6eUGDsdSl9goc9Fx4+7AoLocXiGL1t+tcM8kYuhDb4If7xH0iESuJV/r5hoqvLI+LYDhuDniL/erKsq4behIhpJEuG8TtCaXnplZlGnSQg9XSUc6rM670KeifNOOC0CK99HtsHvbOOgRqWZpPNZ0Sa8JWGEe8Mc078Aj9Gy98PqjekGJrQzjq5eS/bTgWjWiQ5NXWUdLXehQQkneGe4YrwOH/IMCEWv584NRewIDAQAB",
+   "manifest_version": 2,
+   "name": "HUMAN 3.0",
+   "permissions": [ "unlimitedStorage", "notifications" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "3.2.1"
+}

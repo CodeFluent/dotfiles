@@ -10,7 +10,7 @@
 ( skip_tasklist )
 ( wintype "dock" )
 ( maximize_horizontally )
-( geometry "2560x1380+0+0" )
+( geometry "1920x1020+0+0" )
 ( below )
 ( println "match" )
 )

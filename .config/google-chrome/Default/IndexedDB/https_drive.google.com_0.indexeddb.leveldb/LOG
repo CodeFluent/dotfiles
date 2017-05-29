@@ -1,0 +1,12 @@
+2017/05/29-16:41:58.278 6835 Reusing MANIFEST /home/codefluent/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2017/05/29-16:41:58.279 6835 Recovering log #893
+2017/05/29-16:41:58.279 6835 Reusing old log /home/codefluent/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000893.log 
+2017/05/29-16:41:59.860 7311 Level-0 table #899: started
+2017/05/29-16:41:59.918 7311 Level-0 table #899: 2084708 bytes OK
+2017/05/29-16:41:59.920 7311 Delete type=0 #893
+2017/05/29-16:42:00.486 7311 Level-0 table #901: started
+2017/05/29-16:42:00.551 7311 Level-0 table #901: 2114935 bytes OK
+2017/05/29-16:42:00.555 7311 Delete type=0 #898
+2017/05/29-16:42:01.109 7311 Level-0 table #903: started
+2017/05/29-16:42:01.170 7311 Level-0 table #903: 2112878 bytes OK
+2017/05/29-16:42:01.179 7311 Delete type=0 #900
