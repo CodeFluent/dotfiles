@@ -1,6 +1,0 @@
-2017/05/29-17:16:20.976 25137 Reusing MANIFEST /home/codefluent/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
-2017/05/29-17:16:20.976 25137 Recovering log #654
-2017/05/29-17:16:20.979 25137 Reusing old log /home/codefluent/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/000654.log 
-2017/05/29-17:24:47.062 25728 Level-0 table #658: started
-2017/05/29-17:24:47.109 25728 Level-0 table #658: 1929831 bytes OK
-2017/05/29-17:24:47.114 25728 Delete type=0 #654

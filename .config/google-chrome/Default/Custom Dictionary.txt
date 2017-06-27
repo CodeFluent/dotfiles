@@ -1,2 +1,0 @@
-Github
-checksum_v1 = b7be00df29c1d658b810f313623efd5a
