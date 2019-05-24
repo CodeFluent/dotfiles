@@ -9,6 +9,7 @@
 + adds natron, kdenlive, and blender
 + adds imwheel configuration and installation
 + changes config for display values via dconf
++ adds bootinfo repair fix for grub
 
 - removed transmission from data/favs.list
 - removed gnome-todo from data/gnome-apps.list
