@@ -14,3 +14,6 @@
 # Learn
 - neovim
 - emacs
+
+# Read
+- [Your unofficial guide to dotfiles on GitHub](https://dotfiles.github.io/tutorials/)  - really good guide on how to manage dotfiles. might be a little too much in terms of reading, but definitely a good resource. Don't go too deep. 
