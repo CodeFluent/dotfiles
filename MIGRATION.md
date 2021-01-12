@@ -1,6 +1,6 @@
 ## Install
 - install elementary-tweaks
-- ~~install kde-connect~
+- install kde-connect
  - https://www.linuxuprising.com/2018/08/how-to-re-enable-ayatana-appindicators.html
  - https://www.yourtechshow.com/2020/04/kde-connect-for-elementary-os-hera-fix.html
 - install emacs, doom-emacs, vscodium, fd-find, iputils, ripgrep
